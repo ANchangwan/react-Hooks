@@ -14,3 +14,10 @@ useState는 array 형태로 리턴한다. array로 작업한다.
 useInput은 그냥 기본적으로 input을 업데이트한다.
 
 ## useEffect
+
+useEffect는 componenetDidmount 상태에서 동작
+
+## useClick
+references - 기본적으로 우리의 componenet의 어떤 부분을 선택할 수 있는 방법
+
+react에 있는 모든 component는 reference element를 가지고 있다.
